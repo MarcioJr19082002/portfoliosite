@@ -99,3 +99,14 @@ a{
     color: white;
     text-decoration: none;
 }
+
+.contato {
+    width: 20%;
+    height: 20%;
+}
+
+p {
+    color: black;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
